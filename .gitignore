@@ -1,0 +1,10 @@
+# Logs and session data
+logs/*
+!logs/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
